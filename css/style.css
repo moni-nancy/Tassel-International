@@ -406,6 +406,7 @@ height: 250px;
     grid-row: 1;
   }
 
+
   .features-head,
   .features-sub-head{
     text-align: center;
@@ -440,5 +441,18 @@ height: 250px;
   .showcase-form {
     width: 300px;
   }
+ .value p,
+ .value img{
+  padding: 15px;
+ }
 
+  .tassel-us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.6rem;
+  }
+  .tassel-us img{
+    width: 250px;
+  }
 }
