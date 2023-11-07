@@ -389,6 +389,13 @@ height: 250px;
     height: auto;
   }
 
+  .container{
+    padding: 30px;
+  }
+
+  img{
+    width: 100px;
+  }
   .showcase-text {
     text-align: center;
     margin-top: 40px;
@@ -441,4 +448,12 @@ height: 250px;
     width: 300px;
   }
 
+  .container{
+    width: 450px;
+    padding: 3px;
+  }
+
+  img{
+    width: 100px;
+  }
 }
